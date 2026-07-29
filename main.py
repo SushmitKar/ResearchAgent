@@ -20,7 +20,7 @@ def main():
         print("\nSorry, the agent could not produce a valid report. Check the logs above.")
         return
 
-    print("\n=== FINAL REPORT ===\n")
+    print("\nFINAL REPORT\n")
     print(f"Company: {result.company}")
     print(f"Overview: {result.overview}")
     print(f"Headquarters: {result.headquarters}")

@@ -1,0 +1,7 @@
+groq
+tavily-python
+python-dotenv
+requests
+beautifulsoup4
+pydantic
+pydantic-ai

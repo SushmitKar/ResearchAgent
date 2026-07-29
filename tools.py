@@ -18,12 +18,25 @@ def search_web(query: str)->str:
         )
     return "\n---\n".join(formatted)
 
+def search_news(query: str) -> str:
+    """
+    Searches for recent news articles for a topic and returns a compact text summary
+    of the top results.
+    """
+    results = tavily_client.search(query=query, topic="news",max_results=5)
+
+    formatted = []
+    for r in results['results']:
+        formatted.append(
+            f"Title: {r['title']}\nURL: {r['url']}\nContent: {r['content']}\n"
+        )
+    return "\n---\n".join(formatted)
 
 def fetch_webpage(url: str) -> str:
     """
-     Fetches a specific webpage and returns its main visible text content,
-     trimmed to a reasonable length for the LLM to read.
-     """
+    Fetches a specific webpage and returns its main visible text content,
+    trimmed to a reasonable length for the LLM to read.
+    """
     try:
         response = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
         response.raise_for_status()
