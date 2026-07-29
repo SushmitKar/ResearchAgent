@@ -15,7 +15,7 @@ load_dotenv()
 
 visited_urls = []
 agent = Agent(
-    "groq:llama-3.3-70b-versatile",
+    "groq:llama-3.1-8b-instant",
     output_type=CompanyReport,
     system_prompt=(
         """

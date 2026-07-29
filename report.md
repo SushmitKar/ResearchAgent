@@ -1,16 +1,19 @@
-# OpenAI
+# Amazon
 
 ## Overview
-OpenAI is a company that specializes in the development of artificial intelligence models, including the popular ChatGPT, which enables users to interact with AI-powered conversational interfaces. The company's research focuses on achieving artificial general intelligence, a system that can solve complex human-level problems, while prioritizing safety and benefits. OpenAI has raised $180B in funding from investors like Microsoft, SoftBank Group, and Thrive Capital, with a current valuation of $852B. The company operates as an artificial intelligence research and development platform offering advanced language models, enabling businesses and individuals to build and integrate AI capabilities into their applications and services. OpenAI is ranked 1st among 167 active competitors and has 10,050 employees as of June 30, 2026. The company's mission is to ensure that artificial general intelligence benefits all of humanity, and it is committed to putting safety and human needs at the core of its development.
+Amazon is heavily investing in artificial intelligence (AI) infrastructure and education to build stronger communities. The company has secured a $17.5 billion loan facility and plans to raise at least $25 billion in a bond offering to fund its AI-driven capital expenditure. Amazon has also joined OpenAI's $110 billion funding round, which will spend an additional $100 billion on Amazon Web Services over the next eight years. The company plans to use these investments to make sure customers always get the best deal. This is in line with Amazon's overall mission of continuously innovating and providing the best services for its customers.
 
-**Headquarters:** San Francisco, California, USA
+**Headquarters:** Seattle, Washington
 
-**Founded:** 2015
+**Founded:** 1994
 
 ## Products & Services
-- Artificial intelligence models
-- ChatGPT
-- AI-powered conversational interfaces
+- Merchandise
+- Kindle
+- Echo
+- Cloud computing
+- Digital content subscriptions
+- Advertising
 
 ## Sources
-- https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg
+- https://www.aboutamazon.com/
