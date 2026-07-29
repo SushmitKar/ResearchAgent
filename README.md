@@ -25,6 +25,7 @@ User query ("Research LumiQ")
    LLM decides which tools to call, in a loop:
         │
         ├── search_web(query)      → Tavily search API
+        ├── search_news(query)     → Tavily search API
         └── fetch_webpage(url)     → requests + BeautifulSoup
         │
    Loop continues until the LLM has enough information
